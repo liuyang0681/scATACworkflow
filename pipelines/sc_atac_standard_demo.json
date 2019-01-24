@@ -1,0 +1,12 @@
+{
+  "scATAC_standard.Fastq1": "String",
+  "scATAC_standard.Root": "String",
+  "scATAC_standard.Outdir": "String",
+  "scATAC_standard.fastq2bam.start": "String",
+  "scATAC_standard.Fastq2": "String",
+  "scATAC_standard.reference": "String",
+  "scATAC_standard.mode": "String",
+  "scATAC_standard.Sample": "String",
+  "scATAC_standard.fastq2bam.Sample": "String"
+}
+
